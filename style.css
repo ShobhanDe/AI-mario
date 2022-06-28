@@ -1,0 +1,42 @@
+body{
+    background: url('background.jpg');
+ text-align: center;
+    
+}
+
+.h1{
+    width: 100%;
+    text-align: center;
+    top: 0;
+    position: fixed;
+    margin-top: 0;
+}
+.imario{
+    width: 100%;
+
+}
+.h1 button{
+    float: right;
+}
+#play,#status{
+    font-size: 20px;
+}
+h4{
+    color: blue;
+    background-color: cyan;
+    bottom: 0;
+    position: fixed;
+    padding: 5px;
+}
+video{
+    background-image: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+    text-align: center;
+ 
+
+}
+.h1 h1{
+    display: inline;
+}
